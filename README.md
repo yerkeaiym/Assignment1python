@@ -8,14 +8,16 @@ PyPi
 pip install pycoingecko
 ```
 Source
-```git clone https://github.com/man-c/pycoingecko.git
+```
+git clone https://github.com/man-c/pycoingecko.git
 cd pycoingecko
 python3 setup.py install
 ```
 
 ## Usage
 
-```from pycoingecko import CoinGeckoAPI
+```
+from pycoingecko import CoinGeckoAPI
 cg = CoinGeckoAPI()
 ```
 
